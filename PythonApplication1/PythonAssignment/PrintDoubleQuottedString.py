@@ -1,0 +1,1 @@
+print("It goes without saying, \"Time is Money\" , and none can deny it.")
